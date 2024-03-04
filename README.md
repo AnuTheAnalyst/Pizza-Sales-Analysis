@@ -1,3 +1,8 @@
+![Pizza Sales 1](https://github.com/AnuTheAnalyst/Pizza-Sales-Analysis/assets/135465894/3760a864-25e6-44db-9147-88acb4740c18)
+
+
+![Pizza Sales 2](https://github.com/AnuTheAnalyst/Pizza-Sales-Analysis/assets/135465894/8c5b4ae4-1443-4c82-81c6-c5e548ea1396)
+
 
 # PIZZA SALES ANALYSIS
 
