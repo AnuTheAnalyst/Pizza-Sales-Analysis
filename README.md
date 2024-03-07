@@ -19,21 +19,21 @@ This project aims to analyze pizza sales data to gain insights into customer pre
 
 We aim to analyze key indicators for our pizza sales data to gain insights into our business performance. Our intent is to examine the following:
 
-    Total Revenue: Determining the sum of the total price of all pizza orders.
-    Average Order Value: Calculating the average amount spent per order.
-    Total Pizzas Sold: Summing the quantities of all pizzas sold.
-    Total Orders: Identifying the total number of orders placed.
-    Average Pizzas Per Order: Calculating the average number of pizzas sold per order.
+- **Total Revenue:** Determining the sum of the total price of all pizza orders.
+- **Average Order Value:** Calculating the average amount spent per order.
+- **Total Pizzas Sold:** Summing the quantities of all pizzas sold.
+- **Total Orders:** Identifying the total number of orders placed.
+- **Average Pizzas Per Order:** Calculating the average number of pizzas sold per order.
 
 Furthermore, we seek to visualize various aspects of our pizza sales data to understand key trends. Our visualization requirements include:
 
-    Daily Trend for Total Orders: To observe the daily trend of total orders over a specific time period.
-    Monthly Trend for Total Orders: Illustrating the monthly trend of total orders throughout the year.
-    Percentage of Sales by Pizza Category: Showing the distribution of sales across different pizza categories.
-    Percentage of Sales by Pizza Size: Analyzing the percentage of sales attributed to different pizza sizes.
-    Total Pizzas Sold by Pizza Category: Comparing the sales performance of different pizza categories.
-    Top 5 Best Sellers by Total Pizzas Sold: Identifying the most popular pizza options.
-    Bottom 5 Worst Sellers by Total Pizzas Sold: Identifying underperforming or less popular pizza options.
+- **Daily Trend for Total Orders:** To observe the daily trend of total orders over a specific time period.
+- **Monthly Trend for Total Orders:** Illustrating the monthly trend of total orders throughout the year.
+- **Percentage of Sales by Pizza Category:** Showing the distribution of sales across different pizza categories.
+- **Percentage of Sales by Pizza Size:** Analyzing the percentage of sales attributed to different pizza sizes.
+- **Total Pizzas Sold by Pizza Category:** Comparing the sales performance of different pizza categories.
+- **Top 5 Best Sellers by Total Pizzas Sold:** Identifying the most popular pizza options.
+- **Bottom 5 Worst Sellers by Total Pizzas Sold:** Identifying underperforming or less popular pizza options.
 
 These analyses and visualizations will provide valuable insights into our pizza sales data and help drive informed business decisions.
 
@@ -42,11 +42,11 @@ These analyses and visualizations will provide valuable insights into our pizza 
 
 This section presents the methodology employed for conducting this project using SQL Workbench and PowerBI for data manipulation, analysis, and visualization.
 
-SQL Workbench Analysis:
+**SQL Workbench Analysis:**
 
 SQL Workbench was utilized to query and manipulate the pizza sales data. Key indicators such as total revenue, average order value, total pizzas sold, total orders, and average pizzas per order were addressed.
 
-PowerBI Visualization:
+**PowerBI Visualization:**
 
 Following data manipulation in SQL Workbench, insights were visualized using PowerBI. Various charts and dashboards were created to represent key trends and metrics identified during the SQL analysis. Cross-referencing SQL insights ensure data accuracy and consistency, leading to actionable outcomes.
 
@@ -59,13 +59,13 @@ This methodology ensured a systematic and rigorous approach to analyzing and vis
 
 Based on the analysis of pizza sales data, the following key insights have been identified:
 
-    Peak Order Days: Orders peak on weekends, particularly on Fridays and Saturdays.
-    Seasonal Trends: The highest number of orders occurs in the months of July and January.
-    Top Sales Category: The Classic category contributes the most to both sales revenue and total orders.
-    Popular Pizza Size: Large size pizzas generate the highest sales.
-    Top Revenue Contributor: The Thai Chicken Pizza contributes the most to overall revenue.
-    Best-Selling Pizza: The Classic Deluxe Pizza is the best-selling pizza in terms of total quantity sold and total orders.
-    Lowest Revenue Contributor: The Brie Carre Pizza accounts for the minimum revenue, total quantity sold, and total orders.
+- **Peak Order Days:** Orders peak on weekends, particularly on Fridays and Saturdays.
+- **Seasonal Trends:** The highest number of orders occurs in the months of July and January.
+- **Top Sales Category:** The Classic category contributes the most to both sales revenue and total orders.
+- **Popular Pizza Size:** Large size pizzas generate the highest sales.
+- **Top Revenue Contributor:** The Thai Chicken Pizza contributes the most to overall revenue.
+- **Best-Selling Pizza:** The Classic Deluxe Pizza is the best-selling pizza in terms of total quantity sold and total orders.
+- **Lowest Revenue Contributor:** The Brie Carre Pizza accounts for the minimum revenue, total quantity sold, and total orders.
 
 
 
